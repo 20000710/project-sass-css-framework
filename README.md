@@ -1,11 +1,11 @@
 # Web Travel 
 
   website ini memiliki halaman seperti:
-    - Halaman utama(index.html)
-    - Halaman destinasi(destinasi.html)
-    - Halaman peta travel(peta_travel.html)
-    - Halaman galeri(galeri.html)
-    - Halaman pesan(order.html)
+  - Halaman utama(index.html)
+  - Halaman destinasi(destinasi.html)
+  - Halaman peta travel(peta_travel.html)
+  - Halaman galeri(galeri.html)
+  - Halaman pesan(order.html)
 
   
   *index.html* menggunakan framework bootstrap dan juga SASS
