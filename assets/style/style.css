@@ -1,0 +1,83 @@
+div.logo > img{
+  width: 120px;
+}
+
+body.home{
+  background: url('../img/RajaAmpat.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: #3394de;
+}
+
+div.main{
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+  color: white;
+}
+
+a {
+  font-size: 25px;
+  color: white;
+  transition: transform .2s;
+}
+
+a:hover{
+  transform: scale(1.2);
+  color: aqua;
+}
+
+div.text{
+  display: flex;
+  justify-content: center;
+}
+
+div.text > h1{
+  color: white;
+  font-size: 50px;
+}
+
+li.nav-item {
+  margin-right: 20px;
+}
+
+h1 p {
+  color: white;
+}
+
+div.row{
+  display: flex;
+  justify-content: center;
+  margin-right: 110px;
+}
+
+.carousel{
+  width: 640px;
+  height: 360px;
+  margin: auto;
+}
+
+.carousel-item > img{
+  height: 360px;
+}
+
+#map{
+  margin: auto;
+  width: 1000px;
+  height: 500px;
+}
+
+i.material-icons{
+  color: white;
+  font-size: 50px;
+}
+
+@media screen and (max-width: 1200px){
+  #map{
+    width: auto;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

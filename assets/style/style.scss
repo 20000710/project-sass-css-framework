@@ -1,0 +1,28 @@
+$font: 20px;
+$margin: 20px;
+$color: white;
+
+@mixin bg-clr {
+    background-color: #3394de;
+}
+
+body{
+    @include bg-clr;
+}
+
+a{
+    font-size: $font;
+    color: $color;
+}
+
+li.nav-item{
+    margin-right: $margin;
+}
+
+h1{
+    color: $color;
+}
+
+h1 p{
+    color: $color;
+}
