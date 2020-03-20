@@ -8,8 +8,8 @@
   - Halaman pesan(order.html)
 
   
-  *index.html* menggunakan framework bootstrap dan juga SASS
-  *destinasi.html* menggunakan framework materialize
-  *galeri.html* menggunakan framework bootstrap
-  *peta_travel.html* menggunakan framework materialize
-  *order.html* menggunakan framework materialize
+  *index.html*menggunakan framework bootstrap dan juga SASS
+  *destinasi.html*menggunakan framework materialize
+  *galeri.html*menggunakan framework bootstrap
+  *peta_travel.html*menggunakan framework materialize
+  *order.html*menggunakan framework materialize
